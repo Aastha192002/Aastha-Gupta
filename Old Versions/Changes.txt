@@ -1,0 +1,164 @@
+<!-- Contact me SVG -->
+                        <svg class="professional-illustration" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+                            <g transform="translate(0 -10)">
+                                <!-- Background elements -->
+                                <circle cx="400" cy="400" r="300" fill="#F5EEDD" opacity="0.3"></circle>
+                                <circle cx="500" cy="300" r="150" fill="#7AE2CF" opacity="0.2"></circle>
+
+                                <!-- Professional woman illustration -->
+                                <g transform="translate(200 150) scale(0.8)">
+                                    <!-- Head and face -->
+                                    <ellipse cx="250" cy="200" rx="90" ry="110" fill="#ae5d29"></ellipse>
+                                    <path d="M180 170 Q 250 250 320 170" fill="none" stroke="#06202B" stroke-width="2">
+                                    </path>
+                                    <ellipse cx="210" cy="160" rx="10" ry="12" fill="#06202B"></ellipse>
+                                    <ellipse cx="290" cy="160" rx="10" ry="12" fill="#06202B"></ellipse>
+
+                                    <!-- Hair -->
+                                    <path
+                                        d="M160 120 Q 180 50 250 50 Q 320 50 340 120 Q 350 180 340 220 L 320 220 Q 330 180 320 120 Q 300 70 250 70 Q 200 70 180 120 Q 170 180 180 220 L 160 220 Q 150 180 160 120"
+                                        fill="#181658"></path>
+
+                                    <!-- Body -->
+                                    <path d="M180 280 Q 250 300 320 280 L 350 500 L 150 500 Z" fill="#7AE2CF"></path>
+                                    <path d="M200 280 L 220 500 M 300 280 L 280 500" stroke="#077A7D" stroke-width="2"
+                                        opacity="0.5"></path>
+
+                                    <!-- Arms -->
+                                    <path d="M180 300 Q 120 350 100 450" stroke="#ae5d29" stroke-width="25"
+                                        stroke-linecap="round"></path>
+                                    <path d="M320 300 Q 380 350 400 450" stroke="#ae5d29" stroke-width="25"
+                                        stroke-linecap="round"></path>
+
+                                    <!-- Laptop -->
+                                    <rect x="100" y="430" width="300" height="20" fill="#06202B" rx="5"></rect>
+                                    <rect x="100" y="330" width="300" height="100" fill="#077A7D" rx="5"></rect>
+                                    <rect x="120" y="350" width="260" height="60" fill="#F5EEDD" rx="2"></rect>
+                                    <path d="M150 370 L 200 370 M 150 385 L 250 385 M 150 400 L 230 400"
+                                        stroke="#06202B" stroke-width="2" opacity="0.7"></path>
+                                </g>
+                            </g>
+                        </svg>
+
+
+
+
+
+
+
+<!-- About SVG -->
+                        <svg class="professional-illustration" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+                            <g transform="translate(0 -10)">
+                                <!-- Background elements -->
+                                <circle cx="400" cy="400" r="300" fill="#F5EEDD" opacity="0.3"></circle>
+                                <circle cx="300" cy="300" r="150" fill="#7AE2CF" opacity="0.2"></circle>
+
+                                <!-- Professional woman working illustration -->
+                                <g transform="translate(200 150) scale(0.8)">
+                                    <!-- Head and face -->
+                                    <ellipse cx="250" cy="200" rx="90" ry="110" fill="#ae5d29"></ellipse>
+                                    <path d="M180 170 Q 250 250 320 170" fill="none" stroke="#06202B" stroke-width="2">
+                                    </path>
+                                    <ellipse cx="210" cy="160" rx="10" ry="12" fill="#06202B"></ellipse>
+                                    <ellipse cx="290" cy="160" rx="10" ry="12" fill="#06202B"></ellipse>
+
+                                    <!-- Hair -->
+                                    <path
+                                        d="M160 120 Q 180 50 250 50 Q 320 50 340 120 Q 350 180 340 220 L 320 220 Q 330 180 320 120 Q 300 70 250 70 Q 200 70 180 120 Q 170 180 180 220 L 160 220 Q 150 180 160 120"
+                                        fill="#181658"></path>
+
+                                    <!-- Body -->
+                                    <path d="M180 280 Q 250 300 320 280 L 350 500 L 150 500 Z" fill="#077A7D"></path>
+
+                                    <!-- Arms -->
+                                    <path d="M180 300 Q 150 350 180 400" stroke="#ae5d29" stroke-width="25"
+                                        stroke-linecap="round"></path>
+                                    <path d="M320 300 Q 350 350 320 400" stroke="#ae5d29" stroke-width="25"
+                                        stroke-linecap="round"></path>
+
+                                    <!-- Desk -->
+                                    <rect x="50" y="450" width="400" height="20" fill="#06202B" rx="5"></rect>
+
+                                    <!-- Computer -->
+                                    <rect x="200" y="350" width="100" height="80" fill="#06202B" rx="5"></rect>
+                                    <rect x="210" y="360" width="80" height="60" fill="#F5EEDD" rx="2"></rect>
+                                    <rect x="180" y="430" width="140" height="20" fill="#06202B"></rect>
+
+                                    <!-- Coffee cup -->
+                                    <rect x="120" y="400" width="30" height="40" fill="#7AE2CF" rx="5"></rect>
+                                    <path d="M150 410 Q 160 415 150 420" stroke="#06202B" stroke-width="3" fill="none">
+                                    </path>
+
+                                    <!-- Notes -->
+                                    <rect x="350" y="380" width="50" height="60" fill="#F5EEDD"
+                                        transform="rotate(10 350 380)"></rect>
+                                    <path d="M355 390 L 390 385 M 353 405 L 388 400 M 351 420 L 386 415"
+                                        stroke="#06202B" stroke-width="1" opacity="0.7"></path>
+                                </g>
+                            </g>
+                        </svg>
+
+
+
+
+
+
+<!-- Stats SVG -->
+<svg class="professional-illustration" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+                            <g transform="translate(0 -10)">
+                                <!-- Background elements -->
+                                <circle cx="400" cy="400" r="300" fill="#F5EEDD" opacity="0.3"></circle>
+                                <circle cx="300" cy="500" r="150" fill="#7AE2CF" opacity="0.2"></circle>
+
+                                <!-- Professional stats illustration -->
+                                <g transform="translate(200 150) scale(0.8)">
+                                    <!-- Person -->
+                                    <ellipse cx="250" cy="200" rx="70" ry="90" fill="#ae5d29"></ellipse>
+                                    <path d="M210 180 Q 250 220 290 180" fill="none" stroke="#06202B" stroke-width="2">
+                                    </path>
+                                    <ellipse cx="225" cy="170" rx="8" ry="10" fill="#06202B"></ellipse>
+                                    <ellipse cx="275" cy="170" rx="8" ry="10" fill="#06202B"></ellipse>
+
+                                    <!-- Hair -->
+                                    <path
+                                        d="M180 150 Q 200 100 250 100 Q 300 100 320 150 Q 330 200 320 230 L 300 230 Q 310 200 300 150 Q 280 120 250 120 Q 220 120 200 150 Q 190 200 200 230 L 180 230 Q 170 200 180 150"
+                                        fill="#181658"></path>
+
+                                    <!-- Body -->
+                                    <path d="M200 270 Q 250 290 300 270 L 320 450 L 180 450 Z" fill="#077A7D"></path>
+
+                                    <!-- Arms -->
+                                    <path d="M200 300 Q 150 350 170 400" stroke="#ae5d29" stroke-width="20"
+                                        stroke-linecap="round"></path>
+                                    <path d="M300 300 Q 350 350 330 400" stroke="#ae5d29" stroke-width="20"
+                                        stroke-linecap="round"></path>
+
+                                    <!-- Charts and graphs -->
+                                    <rect x="100" y="380" width="120" height="80" fill="#F5EEDD" rx="5"></rect>
+                                    <path d="M110 440 L 210 440 M 110 420 L 210 420 M 110 400 L 210 400"
+                                        stroke="#06202B" stroke-width="1"></path>
+                                    <path d="M120 440 L 120 410 M 150 440 L 150 390 M 180 440 L 180 420"
+                                        stroke="#077A7D" stroke-width="10" stroke-linecap="round"></path>
+
+                                    <circle cx="350" cy="420" r="40" fill="#F5EEDD"></circle>
+                                    <path d="M350 420 L 350 380 A 40 40 0 0 1 385 420 Z" fill="#7AE2CF"></path>
+                                    <path d="M350 420 L 350 380 A 40 40 0 0 0 315 420 Z" fill="#077A7D"></path>
+                                </g>
+                            </g>
+                        </svg>
+
+
+
+<!-- Changes done -->
+1. Removed "md:block hidden" class from the SVG div in order to make the SVG visible in mobile view.
+2. Removed SVG's and replaced them with PNGs.
+3. Added style="padding-left: 25%;" in the div containing SVG for contact me section.
+4. Added hidden md:flex items-center to the main divs containers (parent of the divs containing SVG code) 
+containing the svg in order to hide them in mobile layout.
+5. Added style="color: #06202B" in headers of the light background sections in order to keep them the same 
+in both light & dark layout. For project section, added the same in paragraph attributes of each project.
+In About me, added it in the main section attribute only.
+6. Added icon link tag in header.
+7. Added a socials link to the footer in the navbar.
+8. Changed the content relevant to me.
+9. Added mt-2 md:mt-0 & self-start in class attribute of span tag under work experience that contains the timelines.
